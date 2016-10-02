@@ -6,3 +6,7 @@ Tentative Plan for the weekend (the first weekend) to get started:
 3) Go over https://code.visualstudio.com/docs/introvideos/overview and try and figure that out.
 4) look up other resources that will work
 5) try and connect with other people in the group.
+
+
+
+Got  a little behind this weekend. Didn't commit yesterday 10/1. Plan on starting codeschool tonight and get visualstudio up and running. 
